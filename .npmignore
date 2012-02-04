@@ -1,9 +1,0 @@
-build-cc/
-daemon/settings.js
-.git
-.lock-wscript
-native.node
-.DS_Store
-coverage.html
-test-cov/
-v8.log
